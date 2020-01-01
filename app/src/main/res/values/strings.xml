@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveWage</string>
+    <string name="Enter">Enter Hourly Wage</string>
+    <string name="per_second">Amount Earned Per Second</string>
+    <string name="Amount">$ 0</string>
+
+</resources>
